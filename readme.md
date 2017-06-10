@@ -8,6 +8,10 @@
 
 This package generates a valid API Blueprint 1A document from a collection of classes.
 
+## @author monkeycrpas
+
+I add getting host. 
+
 ## Usage
 
 Some index method phpdoc example:
